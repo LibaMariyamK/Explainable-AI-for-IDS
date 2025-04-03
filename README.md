@@ -54,12 +54,5 @@ This repository contains the implementation of an Intrusion Detection System (ID
 
 Feel free to submit issues or pull requests if you’d like to contribute to this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thesis Advisor: Dr. Manohar Naik S, Central University of Kerala.
-- Dataset: Canadian Institute for Cybersecurity (CICIDS-2017).
 
